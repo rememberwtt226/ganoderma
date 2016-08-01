@@ -1,0 +1,156 @@
+.w1600{
+	width: 1600px;
+	margin: 0 auto;
+}
+.topper{
+	height: 45px;
+	background: #010102;
+	border-bottom: 1px solid #f5f5f5;
+}
+.topper div{
+	width: 1258px;
+	height: inherit;
+	margin: 0 auto;
+	line-height: 45px;
+}
+.topper div h1{
+	font-size: 20px;
+	color: #fff;
+}
+.topper div p a{
+	font-size: 14px;
+	color: #fff;
+}
+.topper div p{
+	width: 112px;
+	height: inherit;
+	text-align: center;
+}
+.topper div .p1{
+	padding-left: 25px;
+}
+.topper div i{
+	width: 12px;
+	height: 18px;
+	background: url(../img/logo.png);
+	margin-left:40px;
+	margin-top: 13.5px;
+}
+.topper div p,.topper div h1,.topper div i{
+	float: left;
+}
+.outer{
+	height: 1083px;
+	background: #09070e;
+	background-image: url(../img/icon.png);
+	background-position: 156px -73px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+.outer .inner{
+	width: 1258px;
+	height: 1014px;
+	background: #f5f5f5;
+	margin: 25px auto 0px;
+	overflow: hidden;
+}
+.inner .top{
+	width: 108px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	margin-top: 32px;
+	margin-left: 30px;
+	background: #cb00da;
+}
+.inner .content{
+	width: 1198px;
+	height: 872px;
+	background: #fff;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.content .content1{
+	width: 1138px;
+	height: 279px;
+	margin: 30px 30px;
+}
+.content .content2{
+	width: 1138px;
+	height: 234px;
+	margin: 40px 30px;
+}
+.content2 .content2-L{
+	float: left;
+	height: inherit;
+	font-size: 12px;
+	color: #818181;
+}
+.content2 .content2-L .p1{
+	margin-bottom: 8px;
+	text-indent: 24px;
+}
+.content2 .content2-R{
+	float: left;
+	margin-left: 75.5px;
+}
+.content .content3{
+	width: 1138px;
+	height: 234px;
+	margin: 0px 30px;
+}
+.content .content3 div{
+	float: left;
+}
+.content .content3 .img1{
+	margin-right: 31px;
+}
+.outer .inner .inner-B{
+	width: 1198px;
+	height: 82px;
+	margin: 0 auto;
+	background: url(../img/icon1.png);
+	background-position: -10px -49px;
+}
+.bottom{
+	height: 86px;
+	background: #f4f4f4;
+	font-size: 14px;
+	overflow: hidden;
+}
+.bottom .bottom-L{
+	float: left;
+	width: 378px;
+	height: 17px;
+	margin-top: 33px;
+	margin-left: 172px;
+}
+.bottom .bottom-L ul{
+	width: 378px;
+	height: 17px;
+	line-height: 17px;
+}
+.bottom .bottom-L ul li{
+	float: left;
+	width: 56px;
+	height: 17px;
+	text-align: center;
+	margin-left: 31px;
+}
+.bottom .bottom-L ul .li1{
+	width: 28px;
+	margin-left: 0px;
+}
+.bottom .bottom-L ul li a{
+	color: #666;
+}
+.bottom .bottom-R{
+	float: left;
+	width: 858px;
+	height: 17px;
+	margin-top: 33px;
+	margin-left: 103px;
+	color: #999;
+}
